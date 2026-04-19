@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#define sucesso 0
+#define sucesso 0 
 
 int main(int argc, char ** argv) {
     
